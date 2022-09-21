@@ -1,1 +1,1 @@
-bytebase --external-url ${RENDER_EXTERNAL_URL} --data /var/opt/bytebase
+bytebase --external-url ${RENDER_EXTERNAL_URL} --data /var/opt/bytebase --port 80
