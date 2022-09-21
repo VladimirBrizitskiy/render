@@ -12,6 +12,6 @@ services:
           name: metadb
           property: connectionString
 databases:
-  - name: bytebase-metadb
+  - name: metadb
     region: oregon
     plan: free
